@@ -1,16 +1,13 @@
-import { Button } from '@mantine/core'
-import './App.css'
+import { Button } from '@mantine/core';
+import './App.css';
 
 function App() {
   return (
     <>
-      <div>
-        <Button variant='gradient'>
-          Hello World
-        </Button>
-      </div>
+      <div className="bg-red-200">Hello world</div>
+      <Button variant="gradient">test</Button>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
