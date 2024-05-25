@@ -74,7 +74,7 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
  ## Contact
 
-Your Name - [@HeySahajDave](https://twitter.com/heysahajdave)
+[@HeySahajDave](https://twitter.com/heysahajdave)
  ## Acknowledgments
 
 TODO
