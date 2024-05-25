@@ -1,7 +1,9 @@
+import { RouterProvider } from '@/providers'
+
 function App() {
   return (
     <>
-      <div className="bg-red-300"></div>
+      <RouterProvider />
     </>
   )
 }
