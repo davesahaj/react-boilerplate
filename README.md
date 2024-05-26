@@ -1,7 +1,7 @@
                          
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="https://github.com/davesahaj/react-boilerplate">
 <img src="" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">React Boilerplate</h3>
