@@ -1,5 +1,5 @@
 import { ROUTES } from '@/constants'
-import { Home } from '@/pages'
+import { Home, PageNotFound } from '@/pages'
 
 export const publicRoutes: {
   path: string
@@ -8,5 +8,9 @@ export const publicRoutes: {
   {
     path: ROUTES.HOME,
     component: Home,
+  },
+  {
+    path: '',
+    component: PageNotFound,
   },
 ]

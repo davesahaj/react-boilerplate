@@ -1,13 +1,13 @@
 import { publicRoutes } from '@/config'
-import { Route, Router } from '@/libs'
+import { Route, Switch } from '@/libs'
 
 const RouterProvider = () => {
   return (
-    <Router>
+    <Switch>
       {publicRoutes.map(({ component: Component, path }) => (
         <Route component={Component} key={path} path={path} />
       ))}
-    </Router>
+    </Switch>
   )
 }
 
